@@ -3,3 +3,4 @@
     entry: isort
     require_serial: true
     additional_dependencies: []
+    language: python
