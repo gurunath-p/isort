@@ -1,8 +1,5 @@
 -   id: isort
     name: isort
     entry: isort
-    language: python
-    'types': [python]
-    args: ["-rc", "zlabsnlp/**/*.py", "zlabsnlp_api/**/*.py"]
     require_serial: true
     additional_dependencies: []
